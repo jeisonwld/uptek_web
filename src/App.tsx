@@ -31,10 +31,10 @@ const services = [
 
 const testimonials = [
   {
-    name: 'Sarah Johnson',
-    role: 'CEO, TechFlow Inc',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&h=150',
-    quote: 'UpTek transformed our business operations completely. Their solutions helped us increase efficiency by 300%.'
+    name: 'Uso Carruso',
+    role: 'Monda´s own talker',
+    image: 'https://scontent.feoh14-1.fna.fbcdn.net/v/t1.6435-9/74477363_2532720856805340_6246151748658921472_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGw7xbKY7LRMN2CjZGgcoUg0VsJHreR4nnRWwket5HiealIssc9g0Y8gtBGERV2Xb014wScwbUbCidXJsfn57VE&_nc_ohc=xSJ6nSzHSfoQ7kNvgFEE3K0&_nc_oc=AdnT08cSLMGvRJI0ZIPDrug5_wwaOBgLqTKphaGrKfMes6ByiuKRXZOH_Axz1EwxH0c&_nc_zt=23&_nc_ht=scontent.feoh14-1.fna&_nc_gid=6CC_3JxteUc6d9BHoMAukw&oh=00_AYG-lY9egAaKg7JucAQR8SdIJukXL2W-kKApve75gcJk4w&oe=6801841A',
+    quote: 'UpTek transformó por completo nuestras operaciones comerciales. Sus soluciones nos ayudaron a hablar más monda en un 300%.'
   },
   {
     name: 'Michael Chen',
@@ -181,7 +181,7 @@ function App() {
         </div>
       </section>
 
-      {/* Usuarios */}
+      /* {/* Usuarios */}
       <section id="usuarios" className="py-24 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-4xl font-bold text-center mb-16">Usuarios</h2>
@@ -221,7 +221,7 @@ function App() {
       </section>
 
       {/* Footer */}
-      <footer id="contacto" className="bg-gray-900 text-white py-12 px-4">
+      <footer id="contactos" className="bg-gray-900 text-white py-12 px-4">
         <div className="max-w-7xl mx-auto">
           <div className="grid md:grid-cols-3 gap-8">
             <div>
