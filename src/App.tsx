@@ -70,7 +70,7 @@ function App() {
   };
 
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/1234567890?text=Hi%20UpTek!%20I%27m%20interested%20in%20your%20services.', '_blank');
+    window.open('https://wa.me/573006233026?text=Hola%20UpTek!%20Estoy%20interesadx%20en%20sus%20servicios.', '_blank');
   };
 
   return (
