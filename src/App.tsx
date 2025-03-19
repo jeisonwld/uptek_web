@@ -226,7 +226,7 @@ function App() {
           <div className="grid md:grid-cols-3 gap-8">
             <div>
               <h3 className="text-2xl font-bold mb-4">UpTek</h3>
-              <p className="text-gray-400">De lo tradicional a lo digital, sin límites".</p>
+              <p className="text-gray-400">De lo tradicional a lo digital, sin límites.</p>
             </div>
             <div>
               <h4 className="font-semibold mb-4">Contactanos</h4>
