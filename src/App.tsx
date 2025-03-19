@@ -37,10 +37,10 @@ const testimonials = [
     quote: 'UpTek transformó por completo nuestras operaciones comerciales. Sus soluciones nos ayudaron a hablar más monda en un 300%.'
   },
   {
-    name: 'Michael Chen',
-    role: 'CTO, InnovateCo',
-    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&h=150',
-    quote: 'The expertise and dedication of the UpTek team are unmatched. They delivered beyond our expectations.'
+    name: 'Son Goku',
+    role: 'Guerrero Sayayin',
+    image: 'https://i0.wp.com/senpai.com.mx/wp-content/uploads/2020/01/camara-1.jpg?fit=1280%2C720&ssl=1',
+    quote: 'Estoy recuperandome'
   }
 ];
 
